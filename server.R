@@ -1,5 +1,5 @@
   shinyServer(function(input, output, session) {  
-  # just a small part of iris for display
+
   
   
   
