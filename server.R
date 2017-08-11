@@ -9,7 +9,7 @@
   iris_sample <- data.frame(Inflation= numeric(0), Pes= numeric(0))
   row.names(iris_sample) <- NULL
   
-  # The important part of reactiveValues()
+
   values <- reactiveValues()
   values$df <- iris_sample
   
